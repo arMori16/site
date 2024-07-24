@@ -1,0 +1,8 @@
+#myCanvas{
+    display: block; /* Убрать отступы вокруг canvas */
+    width: 100vw;
+    height: 100vh;
+}
+body{
+    margin: 0;
+}
